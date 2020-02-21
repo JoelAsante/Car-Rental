@@ -1,7 +1,4 @@
 //Joel Asante
-//K753A978
-//CS400
-//Hoemwork 2
 
 //includes
 #include "ArrayList.h"
