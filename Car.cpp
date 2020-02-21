@@ -1,7 +1,5 @@
 //Joel Asante
-//K753A978
-//CS400
-//Hoemwork 2
+
 
 #include"Car.h"
 //default Constructor
