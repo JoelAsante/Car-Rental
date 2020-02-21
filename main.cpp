@@ -1,7 +1,5 @@
 //Joel Asante
-//K753A978
-//CS400
-//Homework 2 - main.cpp
+// main.cpp
 
 //includes
 #include"ArrayList.h"
