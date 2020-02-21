@@ -1,7 +1,4 @@
 //Joel Asante
-//K753A978
-//CS400
-//Homework 2
 
 #include<iostream>
 #include<string>
